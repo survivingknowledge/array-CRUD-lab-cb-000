@@ -28,8 +28,10 @@ end
 
 def retrieve_first_element_from_array(array)
   array.first
+  #can also be array[0]
 end
 
 def retrieve_last_element_from_array(array)
   array.last
+  #can also be array[-1]
 end
